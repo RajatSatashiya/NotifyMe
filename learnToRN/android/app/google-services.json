@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086961841151",
+    "project_id": "notifyme-ab0d6",
+    "storage_bucket": "notifyme-ab0d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086961841151:android:668eb202af687c48c1edca",
+        "android_client_info": {
+          "package_name": "com.learntorn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpBPeW4CeZxLqM5hOGNUegoeuP3JSkkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
